@@ -11,7 +11,8 @@ public:
             std::cout<<"Введите пороль еще раз"<<std::endl;
         }
     }
-
+        
+    
     void error_org(int errorr){
         four = errorr;
         if(four > money){
